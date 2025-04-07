@@ -3,7 +3,7 @@
     "private": true,
     "version": "0.0.0",
     "type": "module",
-    "homepage": "https://Yaroslav-Radionenko.github.io/wt-js-loadmore-infinitescroll",
+    "homepage": "https://yaroslav-radionenko.github.io/wt-js-loadmore-infinitescroll/",
     "scripts": {
         "dev": "vite",
         "predeploy": "npm run build",
@@ -12,7 +12,7 @@
         "preview": "vite preview"
     },
     "devDependencies": {
-        "gh-pages": "^6.3.0",
+        "gh-pages": "^6.1.0",
         "glob": "^8.1.0",
         "vite": "^5.0.8"
     },
